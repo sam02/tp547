@@ -6,4 +6,4 @@ O material das aulas pode ser acessado através dos links abaixo.
 
 1. [Introdução ao curso e geração de variáveis aleatórias](https://github.com/sam02/tp547/blob/main/aulas/aula1_2024_1.pdf)
    
-2. [Geração de vaiáveis aleatórias discretas](https://github.com/sam02/tp547/blob/main/aulas/aula2_2024_1.pdf)
+2. [Geração de variáveis aleatórias discretas](https://github.com/sam02/tp547/blob/main/aulas/aula2_2024_1.pdf)
