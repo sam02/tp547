@@ -12,3 +12,4 @@ O material das aulas pode ser acessado através dos links abaixo.
 5. [Tabela normal](https://github.com/sam02/tp547/blob/main/aulas/Tabela_Normal.pdf)
 6. [Monte Carlo](https://github.com/sam02/tp547/blob/main/aulas/aula5_2024_1.pdf)
 7. [Amostragem por importância e Random walk](https://github.com/sam02/tp547/blob/main/aulas/aula6_2024_1.pdf)
+8. [Intervalos de confiança](https://github.com/sam02/tp547/blob/main/aulas/aula7_2024_1.pdf)
