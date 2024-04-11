@@ -14,3 +14,6 @@ O material das aulas pode ser acessado através dos links abaixo.
 7. [Amostragem por importância e Random walk](https://github.com/sam02/tp547/blob/main/aulas/aula6_2024_1.pdf)
 8. [Intervalos de confiança](https://github.com/sam02/tp547/blob/main/aulas/aula7_2024_1.pdf)
 9. [Exemplos de Monte Carlo em Telecomunicações](https://github.com/sam02/tp547/blob/main/aulas/aula8_2024_1.pdf)
+10. [Técnicas de amostragem de sinais](https://github.com/sam02/tp547/blob/main/aulas/aula9_2024_1.pdf)
+11. [Técnicas de Quantização de sinais](https://github.com/sam02/tp547/blob/main/aulas/aula10_2024_1.pdf)
+12. [Codigos de linha](https://github.com/sam02/tp547/blob/main/aulas/aula11_2024_1.pdf)
