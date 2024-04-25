@@ -18,3 +18,4 @@ O material das aulas pode ser acessado através dos links abaixo.
 11. [Técnicas de Quantização de sinais](https://github.com/sam02/tp547/blob/main/aulas/aula10_2024_1.pdf)
 12. [Codigos de linha](https://github.com/sam02/tp547/blob/main/aulas/aula11_2024_1.pdf)
 13. [Sinais M-PAM](https://github.com/sam02/tp547/blob/main/aulas/aula12_2024_1.pdf)
+14. [Fading e modulação em banda passante](https://github.com/sam02/tp547/blob/main/aulas/aula13_2024_1.pdf)
