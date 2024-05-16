@@ -22,3 +22,5 @@ O material das aulas pode ser acessado através dos links abaixo.
 15. [Análise de sistemas com componentes/funções não lineares](https://github.com/sam02/tp547/blob/main/aulas/aula14_2024_1.pdf)
 16. [Introdução às cadeias de Markov](https://github.com/sam02/tp547/blob/main/aulas/aula15_2024_1.pdf)
 17. [Classificação de cadeias de markov](https://github.com/sam02/tp547/blob/main/aulas/aula16_2024_1.pdf)
+18. [introdução a simulação de eventos discretos](https://github.com/sam02/tp547/blob/main/aulas/aula17_2024_1.pdf)
+19. [Introdução a teoria de filas](https://github.com/sam02/tp547/blob/main/aulas/aula18_2024_1.pdf)
