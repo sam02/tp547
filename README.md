@@ -25,4 +25,4 @@ O material das aulas pode ser acessado através dos links abaixo.
 18. [introdução a simulação de eventos discretos](https://github.com/sam02/tp547/blob/main/aulas/aula17_2024_1.pdf)
 19. [Introdução a teoria de filas](https://github.com/sam02/tp547/blob/main/aulas/aula18_2024_1.pdf)
 20. [Filas com buffer finito e filas MG1](https://github.com/sam02/tp547/blob/main/aulas/aula19_2024_1.pdf)
-21. [Filas com prioridade e filas com multiplos servidores](https://github.com/sam02/tp547/blob/main/aulas/aula20_2024_1.pdf)
+21. [Filas com multiplos servidores](https://github.com/sam02/tp547/blob/main/aulas/aula20_2024_1.pdf)
