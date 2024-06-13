@@ -26,3 +26,4 @@ O material das aulas pode ser acessado através dos links abaixo.
 19. [Introdução a teoria de filas](https://github.com/sam02/tp547/blob/main/aulas/aula18_2024_1.pdf)
 20. [Filas com buffer finito e filas MG1](https://github.com/sam02/tp547/blob/main/aulas/aula19_2024_1.pdf)
 21. [Filas com multiplos servidores](https://github.com/sam02/tp547/blob/main/aulas/aula20_2024_1.pdf)
+22. [Filas com prioridade](https://github.com/sam02/tp547/blob/main/aulas/aula21_2024_1.pdf)
